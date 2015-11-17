@@ -1,0 +1,24 @@
+To Do:
+Add the "New" quick-button.
+Use a new version of FlowChart.net
+Write documentation.
+Describe the application.
+Make web-site.
+Change file format to iChart.
+
+
+Done:
+Ctrl+A in tooltip editor should select all text in the tooltip editor, not all the nodes.
+Make Ctrl+V paste into the node when a node is selected.
+Fix copy and paste.
+Add context menu to tooltip editor.
+
+iChart is a simple visual information analysis solution. iChart can be used to quickly combine information from multiple sources so that it can all be organized and viewed together in the same visual workspace to facilitate intelligence production. 
+
+Combining information from multiple sources is done by hand; this might sound slow, but actually the application is designed to facilitate this process by being as simple as possible. This is the main purpose of the application - to make it as quick and as simple as possible to place information from multiple sources into a single workspace to simplify intelligence production, where intelligence is defined loosely as information that answers a question or provides guidance for action. The resulting chart within the application is rarely itself the intelligence that is sought, but is rather an intermediate step between raw data and meaningful intelligence. 
+
+The word intelligence has a sort of military or government connotation, but the process of analyzing a set of data to facilitate the production of a new set of data is applicable to any field that involves writing. Reading a book and then writing an essay about it is an example of analyzing a source data set (book) to produce a new set of meaningful information (a collection of sentences that form an essay that makes a point). Recalling a personal experience and then writing a blog about it is also an example of this process - source data (personal experience) is transformed into a new meaningful set (sentences in the blog entry). These examples are trivial, but the process is similarly applicable to complex projects with multiple sources and output requirements.
+
+iChart has been shaped by the professional work that I do, rather than designed by intent. I write application security guidance that is supposed to prevent software vulnerabilities from occuring. The techniques for writing secure software have been discovered as a result of the industry having to fix vulnerable software code that it has produced. It was not an elegant process and it resulted in cybersecurity becoming one of the most important issues at the moment of this writing, but the techniques already exist now. My work is learning these techniques and then writing about them. This work requires analyzing large amounts of different types of information from multiple sources (such as types and frequency of types of exploits, discovered vulnerabilities, results of penetration tests, vendor patches for vulnerabilities, third-party work-arounds for vulnerabilities, security controls built into applications, security controls required by cybersecurity regulations, vulnerability remediation advice from pentesting experts, etc.) to identify common principles that can be used to write secure application code. iChart has been created as a byproduct of doing this work, starting out as an improvised alternative to having multiple notepad windows open and then gradually being optimized to make the work easier and faster. It's still basically a bunch of floating text boxes that can be moved around the screen. My work is pretty simple when using iChart. I don't think I could do my work without iChart within reasonable time constraints.
+
+I frequently encounter people that think of data visualization as something that is produced automatically by software, and because iChart does not do this, they feel like it's not a proper data visualization solution. While it might be nice to have a software that automatically analyzes data for you in theory, in practice I think that analyzing the information that I work with using iChart is simpler and faster than writing artificial intelligence that can do the same thing. This might apply to other types of work as well and determining whether that is the case is left to the individual that is doing the work.

@@ -1,43 +1,36 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
 
-# Folder config file
-Desktop.ini
+/binaries
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+_UpgradeReport_Files
+_ReSharper.*
+bin
+obj
+*.user
+UpgradeLog.xml
+*.suo
+*.pidb
+*.userprefs
+/TestResults
+binaries
+*.ncrunchproject
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+*.ncrunchsolution
 
-# Windows shortcuts
-*.lnk
+*.cache
 
-# =========================
-# Operating System Files
-# =========================
+*.nupkg
 
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+*.pdb
+StoredText
+/packages/WatiN.2.1.0/mozilla
+/packages/WatiN.2.1.0/lib/net20
+/packages/WatiN.2.1.0/lib/net35
+/packages/WatiN.2.1.0/WatiN.chm
+/_NCrunch_FluentSharp
+/packages/HtmlAgilityPack.1.4.6/lib/winrt45
+/packages/HtmlAgilityPack.1.4.6/lib/Net40-client
+/packages/HtmlAgilityPack.1.4.6/lib/sl3-wp
+/packages/HtmlAgilityPack.1.4.6/lib/sl4
+/packages/HtmlAgilityPack.1.4.6/lib/sl4-windowsphone71
+/packages/HtmlAgilityPack.1.4.6/lib/sl5
+02.Temp

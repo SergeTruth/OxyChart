@@ -1,0 +1,460 @@
+<Diagram Version="13">
+  <Nodes>
+    <Node Class="std:ShapeNode" Id="0" Version="1">
+      <Bounds>24, 72, 256, 48</Bounds>
+      <ZIndex>0</ZIndex>
+      <HyperLink />
+      <ToolTip />
+      <Locked>False</Locked>
+      <Visible>True</Visible>
+      <Printable>True</Printable>
+      <Brush Id="0" />
+      <Pen>
+        <Color>#FF000000</Color>
+        <DashOffset>0</DashOffset>
+        <DashStyle>0</DashStyle>
+        <LineJoint>0</LineJoint>
+        <MiterLimit>10</MiterLimit>
+        <Width>1</Width>
+      </Pen>
+      <Font>
+        <Name>Courier New</Name>
+        <Size>10</Size>
+        <Unit>3</Unit>
+        <Bold>False</Bold>
+        <Italic>False</Italic>
+        <Underline>False</Underline>
+        <Strikeout>False</Strikeout>
+        <GdiCharSet>1</GdiCharSet>
+      </Font>
+      <ShadowColor>#FF6E6E8C</ShadowColor>
+      <ShadowOffsetX>1</ShadowOffsetX>
+      <ShadowOffsetY>1</ShadowOffsetY>
+      <Weight>1</Weight>
+      <IgnoreLayout>False</IgnoreLayout>
+      <Tag Type="1" />
+      <Obstacle>True</Obstacle>
+      <AllowIncomingLinks>True</AllowIncomingLinks>
+      <AllowOutgoingLinks>True</AllowOutgoingLinks>
+      <EnabledHandles>511</EnabledHandles>
+      <Expanded>True</Expanded>
+      <Expandable>False</Expandable>
+      <HandlesStyle>2</HandlesStyle>
+      <Shape Id="Rectangle" />
+      <ShapeOrientation>0</ShapeOrientation>
+      <Text>Some menu items don't work</Text>
+      <TextColor>#FF000000</TextColor>
+      <TextFormat>
+        <Alignment>0</Alignment>
+        <Flags>1024</Flags>
+        <LineAlignment>0</LineAlignment>
+        <Trimming>2</Trimming>
+      </TextFormat>
+      <PolygonalTextLayout>False</PolygonalTextLayout>
+      <EnableStyledText>False</EnableStyledText>
+      <ImageAlign>1</ImageAlign>
+      <RotationAngle>0</RotationAngle>
+      <RotateImage>True</RotateImage>
+      <RotateText>False</RotateText>
+      <Transparent>False</Transparent>
+      <CustomDraw>0</CustomDraw>
+    </Node>
+    <Node Class="std:ShapeNode" Id="1" Version="1">
+      <Bounds>24, 120, 256, 48</Bounds>
+      <ZIndex>1</ZIndex>
+      <HyperLink />
+      <ToolTip />
+      <Locked>False</Locked>
+      <Visible>True</Visible>
+      <Printable>True</Printable>
+      <Brush Id="0" />
+      <Pen>
+        <Color>#FF000000</Color>
+        <DashOffset>0</DashOffset>
+        <DashStyle>0</DashStyle>
+        <LineJoint>0</LineJoint>
+        <MiterLimit>10</MiterLimit>
+        <Width>1</Width>
+      </Pen>
+      <Font>
+        <Name>Courier New</Name>
+        <Size>10</Size>
+        <Unit>3</Unit>
+        <Bold>False</Bold>
+        <Italic>False</Italic>
+        <Underline>False</Underline>
+        <Strikeout>False</Strikeout>
+        <GdiCharSet>1</GdiCharSet>
+      </Font>
+      <ShadowColor>#FF6E6E8C</ShadowColor>
+      <ShadowOffsetX>1</ShadowOffsetX>
+      <ShadowOffsetY>1</ShadowOffsetY>
+      <Weight>1</Weight>
+      <IgnoreLayout>False</IgnoreLayout>
+      <Tag Type="1" />
+      <Obstacle>True</Obstacle>
+      <AllowIncomingLinks>True</AllowIncomingLinks>
+      <AllowOutgoingLinks>True</AllowOutgoingLinks>
+      <EnabledHandles>511</EnabledHandles>
+      <Expanded>True</Expanded>
+      <Expandable>False</Expandable>
+      <HandlesStyle>2</HandlesStyle>
+      <Shape Id="Rectangle" />
+      <ShapeOrientation>0</ShapeOrientation>
+      <Text>Pasting chart nodes doesn't offset from the copied nodes</Text>
+      <TextColor>#FF000000</TextColor>
+      <TextFormat>
+        <Alignment>0</Alignment>
+        <Flags>1024</Flags>
+        <LineAlignment>0</LineAlignment>
+        <Trimming>2</Trimming>
+      </TextFormat>
+      <PolygonalTextLayout>False</PolygonalTextLayout>
+      <EnableStyledText>False</EnableStyledText>
+      <ImageAlign>1</ImageAlign>
+      <RotationAngle>0</RotationAngle>
+      <RotateImage>True</RotateImage>
+      <RotateText>False</RotateText>
+      <Transparent>False</Transparent>
+      <CustomDraw>0</CustomDraw>
+    </Node>
+    <Node Class="std:ShapeNode" Id="2" Version="1">
+      <Bounds>24, 168, 256, 48</Bounds>
+      <ZIndex>2</ZIndex>
+      <HyperLink />
+      <ToolTip />
+      <Locked>False</Locked>
+      <Visible>True</Visible>
+      <Printable>True</Printable>
+      <Brush Id="0" />
+      <Pen>
+        <Color>#FF000000</Color>
+        <DashOffset>0</DashOffset>
+        <DashStyle>0</DashStyle>
+        <LineJoint>0</LineJoint>
+        <MiterLimit>10</MiterLimit>
+        <Width>1</Width>
+      </Pen>
+      <Font>
+        <Name>Courier New</Name>
+        <Size>10</Size>
+        <Unit>3</Unit>
+        <Bold>False</Bold>
+        <Italic>False</Italic>
+        <Underline>False</Underline>
+        <Strikeout>False</Strikeout>
+        <GdiCharSet>1</GdiCharSet>
+      </Font>
+      <ShadowColor>#FF6E6E8C</ShadowColor>
+      <ShadowOffsetX>1</ShadowOffsetX>
+      <ShadowOffsetY>1</ShadowOffsetY>
+      <Weight>1</Weight>
+      <IgnoreLayout>False</IgnoreLayout>
+      <Tag Type="1" />
+      <Obstacle>True</Obstacle>
+      <AllowIncomingLinks>True</AllowIncomingLinks>
+      <AllowOutgoingLinks>True</AllowOutgoingLinks>
+      <EnabledHandles>511</EnabledHandles>
+      <Expanded>True</Expanded>
+      <Expandable>False</Expandable>
+      <HandlesStyle>2</HandlesStyle>
+      <Shape Id="Rectangle" />
+      <ShapeOrientation>0</ShapeOrientation>
+      <Text>Clipboard operations of the node edit box don't work well</Text>
+      <TextColor>#FF000000</TextColor>
+      <TextFormat>
+        <Alignment>0</Alignment>
+        <Flags>1024</Flags>
+        <LineAlignment>0</LineAlignment>
+        <Trimming>2</Trimming>
+      </TextFormat>
+      <PolygonalTextLayout>False</PolygonalTextLayout>
+      <EnableStyledText>False</EnableStyledText>
+      <ImageAlign>1</ImageAlign>
+      <RotationAngle>0</RotationAngle>
+      <RotateImage>True</RotateImage>
+      <RotateText>False</RotateText>
+      <Transparent>False</Transparent>
+      <CustomDraw>0</CustomDraw>
+    </Node>
+  </Nodes>
+  <Links />
+  <Properties>
+    <LinkHeadShape>1</LinkHeadShape>
+    <LinkBaseShape>0</LinkBaseShape>
+    <LinkIntermediateShape>0</LinkIntermediateShape>
+    <LinkHeadShapeSize>5</LinkHeadShapeSize>
+    <LinkBaseShapeSize>5</LinkBaseShapeSize>
+    <LinkIntermediateShapeSize>5</LinkIntermediateShapeSize>
+    <AlignToGrid>True</AlignToGrid>
+    <ShowGrid>False</ShowGrid>
+    <GridStyle>1</GridStyle>
+    <GridColor>#FFADD8E6</GridColor>
+    <GridSizeX>16</GridSizeX>
+    <GridSizeY>16</GridSizeY>
+    <GridOffsetX>NaN</GridOffsetX>
+    <GridOffsetY>NaN</GridOffsetY>
+    <ShadowColor>#FF6E6E8C</ShadowColor>
+    <ShadowsStyle>0</ShadowsStyle>
+    <ShadowOffsetX>1</ShadowOffsetX>
+    <ShadowOffsetY>1</ShadowOffsetY>
+    <ImageAlign>4</ImageAlign>
+    <TextColor>#FF000000</TextColor>
+    <ActiveItemHandlesColor>#FFFFFFFF</ActiveItemHandlesColor>
+    <SelectedItemHandlesColor>#FFAAAAAA</SelectedItemHandlesColor>
+    <DisabledHandlesColor>#FFC80000</DisabledHandlesColor>
+    <LinkStyle>1</LinkStyle>
+    <LinkSegments>1</LinkSegments>
+    <Bounds>0, 0, 800, 600</Bounds>
+    <TableRowsCount>4</TableRowsCount>
+    <TableColumnsCount>2</TableColumnsCount>
+    <TableColumnWidth>18</TableColumnWidth>
+    <TableRowHeight>6</TableRowHeight>
+    <TableCaptionHeight>5</TableCaptionHeight>
+    <TableCaption>Table</TableCaption>
+    <LinkCascadeOrientation>0</LinkCascadeOrientation>
+    <TableCellBorders>2</TableCellBorders>
+    <NodesExpandable>False</NodesExpandable>
+    <TablesScrollable>False</TablesScrollable>
+    <ToolTip />
+    <DefaultTextFormat>
+      <Alignment>0</Alignment>
+      <Flags>1024</Flags>
+      <LineAlignment>0</LineAlignment>
+      <Trimming>2</Trimming>
+    </DefaultTextFormat>
+    <Font>
+      <Name>Courier New</Name>
+      <Size>10</Size>
+      <Unit>3</Unit>
+      <Bold>False</Bold>
+      <Italic>False</Italic>
+      <Underline>False</Underline>
+      <Strikeout>False</Strikeout>
+      <GdiCharSet>1</GdiCharSet>
+    </Font>
+    <ImageDpiX>0</ImageDpiX>
+    <ImageDpiY>0</ImageDpiY>
+    <DefaultShape Id="Rectangle" />
+    <ShapePen>
+      <Color>#FF000000</Color>
+      <DashOffset>0</DashOffset>
+      <DashStyle>0</DashStyle>
+      <LineJoint>0</LineJoint>
+      <MiterLimit>10</MiterLimit>
+      <Width>1</Width>
+    </ShapePen>
+    <LinkPen>
+      <Color>#FF000000</Color>
+      <DashOffset>0</DashOffset>
+      <DashStyle>0</DashStyle>
+      <LineJoint>0</LineJoint>
+      <MiterLimit>10</MiterLimit>
+      <Width>0</Width>
+    </LinkPen>
+    <TablePen>
+      <Color>#FF000000</Color>
+      <DashOffset>0</DashOffset>
+      <DashStyle>0</DashStyle>
+      <LineJoint>0</LineJoint>
+      <MiterLimit>10</MiterLimit>
+      <Width>0</Width>
+    </TablePen>
+    <ContainerHighlightPen>
+      <Color>#FF87CEFA</Color>
+      <DashOffset>0</DashOffset>
+      <DashStyle>0</DashStyle>
+      <LineJoint>0</LineJoint>
+      <MiterLimit>10</MiterLimit>
+      <Width>0.5</Width>
+    </ContainerHighlightPen>
+    <ShapeBrush Id="0" />
+    <LinkBrush Id="1" />
+    <TableBrush Id="2" />
+    <Brush Id="3" />
+    <ShapeHandlesStyle>2</ShapeHandlesStyle>
+    <TableHandlesStyle>2</TableHandlesStyle>
+    <AllowLinksRepeat>True</AllowLinksRepeat>
+    <AllowUnconnectedLinks>False</AllowUnconnectedLinks>
+    <AllowUnanchoredLinks>True</AllowUnanchoredLinks>
+    <PolygonalTextLayout>False</PolygonalTextLayout>
+    <ShapeOrientation>0</ShapeOrientation>
+    <RouteLinks>False</RouteLinks>
+    <LinksRetainForm>False</LinksRetainForm>
+    <LinkTextStyle>0</LinkTextStyle>
+    <TableConnectionStyle>1</TableConnectionStyle>
+    <MeasureUnit>2</MeasureUnit>
+    <MinBounds>0, 0, 800, 600</MinBounds>
+    <ExpandBtnPos>0</ExpandBtnPos>
+    <EnableStyledText>False</EnableStyledText>
+    <LinkText />
+    <ShapeText />
+    <LinkCrossings>0</LinkCrossings>
+    <CrossRadius>1.5</CrossRadius>
+    <LinksSnapToBorders>False</LinksSnapToBorders>
+    <LinkHandlesStyle>1</LinkHandlesStyle>
+    <RoundedLinks>False</RoundedLinks>
+    <RoundedLinksRadius>2</RoundedLinksRadius>
+    <EnableLanes>False</EnableLanes>
+    <Lane>
+      <LeftMargin>0</LeftMargin>
+      <TopMargin>0</TopMargin>
+      <MinHeaderSize>10</MinHeaderSize>
+      <DefaultFont>
+        <Name>Microsoft Sans Serif</Name>
+        <Size>9</Size>
+        <Unit>3</Unit>
+        <Bold>False</Bold>
+        <Italic>False</Italic>
+        <Underline>False</Underline>
+        <Strikeout>False</Strikeout>
+        <GdiCharSet>1</GdiCharSet>
+      </DefaultFont>
+      <HookHeaders>True</HookHeaders>
+      <HeadersOnTop>True</HeadersOnTop>
+      <AlignCells>True</AlignCells>
+      <RowWidths />
+      <ColumnHeights />
+      <AllowResizeHeaders>True</AllowResizeHeaders>
+      <Columns>
+        <Width>0</Width>
+        <Height>0</Height>
+        <ResizeType>1</ResizeType>
+        <Title />
+        <RotateTitle>False</RotateTitle>
+        <TitleColor>#FF000000</TitleColor>
+        <Style>
+          <BackgroundBrush Id="0" />
+          <LeftBorderPen>
+            <Color>#FF000000</Color>
+            <DashOffset>0</DashOffset>
+            <DashStyle>0</DashStyle>
+            <LineJoint>0</LineJoint>
+            <MiterLimit>10</MiterLimit>
+            <Width>0</Width>
+          </LeftBorderPen>
+          <TopBorderPen>
+            <Color>#FF000000</Color>
+            <DashOffset>0</DashOffset>
+            <DashStyle>0</DashStyle>
+            <LineJoint>0</LineJoint>
+            <MiterLimit>10</MiterLimit>
+            <Width>0</Width>
+          </TopBorderPen>
+          <RightBorderPen>
+            <Color>#FF000000</Color>
+            <DashOffset>0</DashOffset>
+            <DashStyle>0</DashStyle>
+            <LineJoint>0</LineJoint>
+            <MiterLimit>10</MiterLimit>
+            <Width>0</Width>
+          </RightBorderPen>
+          <BottomBorderPen>
+            <Color>#FF000000</Color>
+            <DashOffset>0</DashOffset>
+            <DashStyle>0</DashStyle>
+            <LineJoint>0</LineJoint>
+            <MiterLimit>10</MiterLimit>
+            <Width>0</Width>
+          </BottomBorderPen>
+        </Style>
+        <SubHeaders />
+      </Columns>
+      <Rows>
+        <Width>0</Width>
+        <Height>0</Height>
+        <ResizeType>1</ResizeType>
+        <Title />
+        <RotateTitle>False</RotateTitle>
+        <TitleColor>#FF000000</TitleColor>
+        <Style>
+          <BackgroundBrush Id="0" />
+          <LeftBorderPen>
+            <Color>#FF000000</Color>
+            <DashOffset>0</DashOffset>
+            <DashStyle>0</DashStyle>
+            <LineJoint>0</LineJoint>
+            <MiterLimit>10</MiterLimit>
+            <Width>0</Width>
+          </LeftBorderPen>
+          <TopBorderPen>
+            <Color>#FF000000</Color>
+            <DashOffset>0</DashOffset>
+            <DashStyle>0</DashStyle>
+            <LineJoint>0</LineJoint>
+            <MiterLimit>10</MiterLimit>
+            <Width>0</Width>
+          </TopBorderPen>
+          <RightBorderPen>
+            <Color>#FF000000</Color>
+            <DashOffset>0</DashOffset>
+            <DashStyle>0</DashStyle>
+            <LineJoint>0</LineJoint>
+            <MiterLimit>10</MiterLimit>
+            <Width>0</Width>
+          </RightBorderPen>
+          <BottomBorderPen>
+            <Color>#FF000000</Color>
+            <DashOffset>0</DashOffset>
+            <DashStyle>0</DashStyle>
+            <LineJoint>0</LineJoint>
+            <MiterLimit>10</MiterLimit>
+            <Width>0</Width>
+          </BottomBorderPen>
+        </Style>
+        <SubHeaders />
+      </Rows>
+      <Cells ColumnCount="0" RowCount="0" />
+    </Lane>
+    <ContainerMargin>10</ContainerMargin>
+    <ContainerMinimumSize>50, 40</ContainerMinimumSize>
+    <ContainerCaption>Container</ContainerCaption>
+    <ContainerCaptionHeight>5</ContainerCaptionHeight>
+    <ContainersFoldable>True</ContainersFoldable>
+    <ShapeCustomDraw>0</ShapeCustomDraw>
+    <SelectAfterCreate>True</SelectAfterCreate>
+    <AutoResize>1</AutoResize>
+    <RestrictItemsToBounds>1</RestrictItemsToBounds>
+    <SnapToAnchor>0</SnapToAnchor>
+    <AllowSplitLinks>False</AllowSplitLinks>
+    <AllowSelfLoops>False</AllowSelfLoops>
+    <ExpandOnIncoming>False</ExpandOnIncoming>
+    <RecursiveExpand>False</RecursiveExpand>
+    <MergeThreshold>0</MergeThreshold>
+    <ShowAnchors>4</ShowAnchors>
+    <SelectionOnTop>True</SelectionOnTop>
+    <AdjustmentHandlesSize>5</AdjustmentHandlesSize>
+    <ShowHandlesOnDrag>True</ShowHandlesOnDrag>
+    <ShowDisabledHandles>True</ShowDisabledHandles>
+    <TableStyle>0</TableStyle>
+    <LinkEndsMovable>True</LinkEndsMovable>
+    <DynamicLinks>True</DynamicLinks>
+    <HitTestPriority>1</HitTestPriority>
+    <BoundsPen>
+      <Color>#FF000000</Color>
+      <DashOffset>0</DashOffset>
+      <DashStyle>1</DashStyle>
+      <LineJoint>0</LineJoint>
+      <MiterLimit>10</MiterLimit>
+      <Width>2</Width>
+    </BoundsPen>
+  </Properties>
+  <Selection />
+  <Resources>
+    <Brushes>
+      <Brush Index="1" Type="Solid">
+        <Color>#FF78DCFF</Color>
+      </Brush>
+      <Brush Index="2" Type="Solid">
+        <Color>#FFB4A0A0</Color>
+      </Brush>
+      <Brush Index="0" Type="Solid">
+        <Color>#FFFFFFFF</Color>
+      </Brush>
+      <Brush Index="3" Type="Solid">
+        <Color>#FFD4D0C8</Color>
+      </Brush>
+    </Brushes>
+    <Images Count="0" />
+  </Resources>
+</Diagram>

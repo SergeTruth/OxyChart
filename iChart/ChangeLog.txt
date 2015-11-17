@@ -1,0 +1,3 @@
+140725
+
+Added "Set Size as Default" and "Resize to Default".
